@@ -20,7 +20,7 @@ Este proyecto es un clon básico de la página de inicio de Google, creado utili
 
 ## Vista Previa
 
-![Vista Previa](preview.png)
+![Vista Previa](img/google.png)
 
 ## Contribuyendo
 
